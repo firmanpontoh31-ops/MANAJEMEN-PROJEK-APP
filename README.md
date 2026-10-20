@@ -98,23 +98,25 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
    *driving* (constraint yang tepat menentukan ES successor).
 ## Screenshot Aplikasi
 
+## Screenshot Aplikasi
+
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Daftar Proyek
-![Daftar Proyek](screenshots/DaftarProyek.png)
+![Daftar Proyek](screenshots/proyek.png.png)
 
 ### Detail Proyek
-![Detail Proyek](screenshots/DetailProyek.png)
+![Detail Proyek](screenshots/detailproyek.png.png)
 
 ### Manajemen Tugas
-![Manajemen Tugas](screenshots/ManajemenTugas.png)
+![Manajemen Tugas](screenshots/tugas.png.png)
 
 ### Gantt Chart
-![Gantt Chart](screenshots/BaganGantt.png)
+![Gantt Chart](<screenshots/detail proyek-gantt char.png>)
 
 ### Kalender Kerja
-![Kalender Kerja](screenshots/KalenderKerja.png)
+![Kalender Kerja](screenshots/kalender.png.png)
 
 ### Sumber Daya
-![Sumber Daya](screenshots/SumberDaya.png)
+![Sumber Daya](screenshots/sdm.png.png)
