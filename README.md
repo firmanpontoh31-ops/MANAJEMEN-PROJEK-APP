@@ -115,8 +115,3 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
 ### Gantt Chart
 ![Gantt Chart](<screenshots/detail proyek-gantt char.png>)
 
-### Kalender Kerja
-![Kalender Kerja](screenshots/kalenderkerja.png.png)
-
-### Sumber Daya
-![Sumber Daya](<screenshots/sumberdaya.png.png>)
