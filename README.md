@@ -96,3 +96,25 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
 4. **Total float** = jumlah hari kerja pada interval `(ES, LS]`; **kritis bila float ≤ 0**.
 5. **Jalur kritis** = rantai mundur dari tugas kritis dengan `EF = finish` melalui edge
    *driving* (constraint yang tepat menentukan ES successor).
+## Screenshot Aplikasi
+
+### Dashboard
+![Dashboard Sistem Manajemen Proyek](screenshots/dashboard.png)
+
+### Daftar Proyek
+![Daftar Proyek](screenshots/proyek.png)
+
+### Detail Proyek
+![Detail Proyek](screenshots/detailproyek.png)
+
+### Manajemen Tugas
+![Manajemen Tugas](screenshots/tugas.png)
+
+### Gantt Chart
+![Gantt Chart Sistem Manajemen Proyek](screenshots/detail%20proyek-gantt%20char.png)
+
+### Kalender Kerja
+![Kalender Kerja](screenshots/kalender%20kerja.png)
+
+### Sumber Daya
+![Sumber Daya Sistem Manajemen Proyek](screenshots/summber%20daya.png)
