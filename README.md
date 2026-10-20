@@ -119,4 +119,4 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
 ![Kalender Kerja](screenshots/kalenderkerja.png.png)
 
 ### Sumber Daya
-![Sumber Daya](screenshots/sumber.png.png)
+![Sumber Daya](<screenshots/sumberdaya.png.png>)
