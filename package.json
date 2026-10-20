@@ -1,0 +1,24 @@
+{
+  "name": "manajemen-projek-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Project Management System - perencanaan, penjadwalan, dan pengawasan proyek perangkat lunak",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:server": "npm run dev -w server",
+    "dev:client": "npm run dev -w client",
+    "build": "npm run build -w server && npm run build -w client",
+    "typecheck": "npm run typecheck -w server && npm run typecheck -w client",
+    "test": "npm run test -w server",
+    "test:browser": "node scripts/browser-test.mjs",
+    "seed": "npm run seed -w server",
+    "start": "npm run start -w server"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.14.0"
+  }
+}
