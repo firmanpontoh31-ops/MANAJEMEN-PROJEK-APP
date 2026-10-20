@@ -99,7 +99,7 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
 ## Screenshot Aplikasi
 
 ### Dashboard
-![Dashboard Sistem Manajemen Proyek](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Daftar Proyek
 ![Daftar Proyek](screenshots/DaftarProyek.png)
@@ -111,10 +111,10 @@ tasks menyimpan estimasi PERT (optimisticDays, mostLikelyDays, pessimisticDays)
 ![Manajemen Tugas](screenshots/ManajemenTugas.png)
 
 ### Gantt Chart
-![Gantt Chart Sistem Manajemen Proyek](screenshots/BaganGantt.png)
+![Gantt Chart](screenshots/BaganGantt.png)
 
 ### Kalender Kerja
 ![Kalender Kerja](screenshots/KalenderKerja.png)
 
 ### Sumber Daya
-![Sumber Daya Sistem Manajemen Proyek](screenshots/SumberDaya.png)
+![Sumber Daya](screenshots/SumberDaya.png)
